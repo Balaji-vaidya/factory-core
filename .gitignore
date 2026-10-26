@@ -1,0 +1,55 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+*.dump
+*.dumpstream
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven build directory
+backend/target/
+target/
+
+# Node.js dependencies and build outputs
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# Environment files and credentials
+.env
+*.local
+backend/.env
+frontend/.env
+
+# Local upload storage vault
+uploads/
+backend/uploads/
+
+# IDE configurations
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and test files
+tmp/
+temp/

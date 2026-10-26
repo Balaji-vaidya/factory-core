@@ -1,0 +1,6 @@
+{
+  "name": "Agrisep® Factory & Inventory Management System",
+  "description": "Production-grade factory management, purchase orders, inventory, reservations, stock shortages, delivery challans, dispatches, and public corporate portal for Indo American Equipment / Agrisep® seed-processing machinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
